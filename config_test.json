@@ -1,0 +1,9 @@
+{
+    "Database": {
+        "Username": "goconf",
+        "Password": "90c0nf",
+        "Host": "127.0.0.1",
+        "Port": "3306",
+        "Name": "goconf_test"
+    }
+}
