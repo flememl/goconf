@@ -24,7 +24,7 @@ Simply import the `goconf` package wherever you need it, your configuration vari
 
 You can then start using it:
 
-```
+```go
 import (
     "database/sql"
     "fmt"
